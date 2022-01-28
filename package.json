@@ -1,0 +1,23 @@
+{
+  "name": "projeto_dentist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoAugusto2017/Projeto_Dentist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoAugusto2017/Projeto_Dentist/issues"
+  },
+  "homepage": "https://github.com/ThiagoAugusto2017/Projeto_Dentist#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
